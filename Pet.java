@@ -1,3 +1,7 @@
+/*
+  comments:
+*/
+
 public class Pet {
  	 int age;
 	 float weight;
