@@ -1,3 +1,7 @@
+/*
+add comments:
+*/
+
 public class Fish extends Pet {
 
 	int currentDepth = 0;
